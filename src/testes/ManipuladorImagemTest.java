@@ -1,10 +1,12 @@
-package manipuladorDeImagens;
+package testes;
 
 import java.io.File;
 import java.io.IOException;
 
 import org.junit.Test;
 import junit.framework.TestCase;
+import manipuladorDeImagens.ImagemPrototype;
+import manipuladorDeImagens.ManipuladorImagem;
 
 /**
  * Classe de Testes Unitários da classe ManipuladorImagem

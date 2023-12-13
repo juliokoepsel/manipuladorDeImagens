@@ -7,7 +7,7 @@ import java.awt.image.BufferedImage;
  * 
  * @author julio.koepsel@gmail.com
  */
-interface ImagemPrototype {
+public interface ImagemPrototype {
 
     /**
      * Retorna um clone do objeto
