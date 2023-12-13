@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"manipuladorDeImagens","l":"ManipuladorImagem.Builder"},{"p":"manipuladorDeImagens","l":"ImagemPrototype"},{"p":"manipuladorDeImagens","l":"ManipuladorImagem"}];updateSearchResults();
